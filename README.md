@@ -1,0 +1,2 @@
+# Bluetooth_SPP_mechanum_controller
+UARTから来る信号により、メカナムホイールを動作させる物。 モタドラはMD10Cとし、 使用するArduinoはArduinoNANO(328p）、 BluetoothモジュールはSBDBT5Vとする。
